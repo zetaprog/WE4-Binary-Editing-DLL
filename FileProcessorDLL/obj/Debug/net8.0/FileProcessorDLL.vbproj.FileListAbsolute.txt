@@ -1,0 +1,22 @@
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.deps.json
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.pdb
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.AssemblyInfoInputs.cache
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.AssemblyInfo.vb
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.vbproj.CoreCompileInputs.cache
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\refint\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.pdb
+C:\Users\Efren\source\repos\FileProcessorDLL\FileProcessorDLL\obj\Debug\net8.0\ref\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.deps.json
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\bin\Debug\net8.0\FileProcessorDLL.pdb
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.AssemblyInfoInputs.cache
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.AssemblyInfo.vb
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.vbproj.CoreCompileInputs.cache
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\refint\FileProcessorDLL.dll
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\FileProcessorDLL.pdb
+C:\Users\Efren\source\repos\FileProcessorDLL - we4\FileProcessorDLL\obj\Debug\net8.0\ref\FileProcessorDLL.dll
